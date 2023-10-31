@@ -1,0 +1,15 @@
+.App{
+    text-align: center;
+}
+
+.titleApp{
+    margin: 5rem;
+    text-decoration: underline;
+}
+
+
+article{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
